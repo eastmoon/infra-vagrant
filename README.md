@@ -13,7 +13,7 @@ Vagrant 是基於 Infrastructure as Code (IaC) 概念的虛擬環境操作工具
 + [基礎操作](./docs/readme.md)
 + 安裝
     - [Windows](./docs/vagrant-for-windows.md)
-    - Linux
+    - [Linux](./docs/install-vagrant-for-linux.md)
 + [設定](./docs/configure.md)
 + [技術議題](./docs/issue.md)
 
