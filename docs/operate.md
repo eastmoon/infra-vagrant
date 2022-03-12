@@ -56,6 +56,12 @@ vagrant ssh
 vagrant package --base [VirtualBox.name] --output [path/name.box]
 ```
 
+## 匯入
+
+```
+vagrant box add [Image name] [Target box image]
+```
+
 ## 文獻
 
 ---
